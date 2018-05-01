@@ -391,7 +391,7 @@ code {
   margin-left: 2px;
 }
 
-.page-links {
+/*.page-links {
   margin: 25px 0;
   padding: 0;
   text-align: center;
@@ -418,7 +418,7 @@ code {
 .page-links-disabled a {
   text-decoration: none;
   color: #ccc;
-}
+}*/
 
 .error-page-title {
   text-align: center;
