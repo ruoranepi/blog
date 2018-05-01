@@ -12,21 +12,13 @@
     
     
     <item>
-      <title>Using Blogdown in R</title>
-      <link>/2018/05/01/using-blogdown-in-r/</link>
+      <title>Hello World</title>
+      <link>/2018/05/01/hello-world/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/05/01/using-blogdown-in-r/</guid>
-      <description>This site was created following the Blogdown book, using Yihui&amp;rsquo;s adaptation of the Lithium Hugo theme.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>/2018/04/30/hello-world/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/04/30/hello-world/</guid>
-      <description>I&amp;rsquo;ll use this space for reading and research notes of general interests.</description>
+      <guid>/2018/05/01/hello-world/</guid>
+      <description>First post! I&amp;rsquo;ll use this space for sharing reading and research notes.
+This site was created following the Blogdown book, using Yihui&amp;rsquo;s adaptation of the Lithium Hugo theme, adding tags and categories based on the Natrium theme.</description>
     </item>
     
   </channel>
