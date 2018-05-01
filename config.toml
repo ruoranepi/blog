@@ -1,23 +1,39 @@
 baseurl = "https://ruoranepi.netlify.com/"
 languageCode = "en-us"
 title = "Ruoran Li"
-theme = "hugo-lithium"
+theme = "hugo-lithium-tag"
 googleAnalytics = "UA-114721555-1"
 disqusShortname = "https-ruoranepi-netlify-com"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Tags"
+    url = "/tags"
+    weight = 2
+[[menu.main]]
+    name = "Posts"
+    url = "/categories"
+    weight = 1
 [[menu.main]]
     name = "Research"
     url = "/research/"
+    weight = 3
 [[menu.main]]
     name = "Teaching"
     url = "/teaching"
+    weight = 4
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
 
 [params]
     description = "Grad student in epi."
