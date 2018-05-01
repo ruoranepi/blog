@@ -16,23 +16,26 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Tags"
-    url = "/tags"
+    url = "/tags/"
     weight = 2
 [[menu.main]]
     name = "Posts"
-    url = "/categories"
+    url = "/categories/"
     weight = 1
 [[menu.main]]
+#    identifier = "research"
     name = "Research"
-    url = "/research"
+    url = "/research/"
     weight = 3
 [[menu.main]]
+#    identifier = "teaching"
     name = "Teaching"
-    url = "/teaching"
+    url = "/teaching/"
     weight = 4
 [[menu.main]]
+#    identifier = "about"
     name = "About"
-    url = "/about"
+    url = "/about/"
     weight = 5
 
 [params]
