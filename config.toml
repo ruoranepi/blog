@@ -2,7 +2,7 @@ baseurl                 = "https://ruoranepi.netlify.com/"               # Your 
 languageCode            = "en-us"
 title                   = "Ruoran"
 theme                   = "sam"
-googleAnalytics         = "UA-114721555-1"             # Tracking code, eg. "UA-111111111-1"
+googleAnalytics         = "UA-117912987-1"             # Tracking code, eg. "UA-111111111-1"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
