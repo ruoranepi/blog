@@ -1,58 +1,43 @@
-baseurl = "https://ruoranepi.netlify.com/"
-languageCode = "en-us"
-title = "Ruoran Li"
-theme = "hugo-lithium-tag"
-googleAnalytics = "UA-114721555-1"
-disqusShortname = "https-ruoranepi-netlify-com"
+baseurl                 = "https://ruoranepi.netlify.com/"               # Your domain name. Must end with "/"
+languageCode            = "en-us"
+title                   = "Ruoran"
+theme                   = "sam"
+googleAnalytics         = "UA-114721555-1"             # Tracking code, eg. "UA-111111111-1"
+
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-
-[taxonomies]
-    category = "categories"
-    tag = "tags"
-
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
-
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
-[[menu.main]]
-    name = "Posts"
-    url = "/categories/"
-    weight = 1
-[[menu.main]]
-#    identifier = "research"
-    name = "Research"
-    url = "/research/"
-    weight = 3
-[[menu.main]]
-#    identifier = "teaching"
-    name = "Teaching"
-    url = "/teaching/"
-    weight = 4
-[[menu.main]]
-#    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 5
-
 [params]
-    description = "Grad student in epi."
+    dateform            = "Mon Jan 02, 2006"
+    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
+    favicon             = "/sam.ico"
+    pygmentsStyle       = "monokai"                     # https://help.farbox.com/pygments.html
+    pygmentsCodefences  = true
+    homepage            = "main"                        # What to call the home page link
+    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
+    clickablePhotos     = true                          # Allow links to the full size images
+    footerText          = "Last updated: 2018/05/01."
 
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.11.0"
-    highlightjsCDN = "//cdn.bootcss.com"
-    highlightjsLang = ["r"]
-    highlightjsTheme = "github"
+# Metadata
+    description         = "Grad student in epi."            # Max 160 characters show in search results
+    twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
+    primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
-    MathJaxCDN = "//cdn.bootcss.com"
-    MathJaxVersion = "2.7.1"
+[[params.mainMenu]]
+    link = "/posts"
+    text = "resources"
 
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
+# [[params.mainMenu]]
+#     link = "/gallery"
+#     text = "gallery"
 
+[[params.mainMenu]]
+    link = "/Teaching"
+    text = "teaching"
+
+[[params.mainMenu]]
+    link = "/Research"
+    text = "research"
+
+[[params.mainMenu]]
+    link = "/About"
+    text = "about"

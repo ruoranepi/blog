@@ -1,51 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruoran</title>
-    <link>/</link>
-    <description>Recent content on Ruoran</description>
+    <title>Pages on Ruoran Li</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Ruoran Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello World</title>
-      <link>/posts/hello-world/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hello-world/</guid>
-      <description>First post! I&amp;rsquo;ll use this space for sharing reading and research notes.
-This site was created following the Blogdown book, using Yihui&amp;rsquo;s adaptation of the Lithium Hugo theme, adding tags and categories based on the Natrium theme.</description>
-    </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>/page/about/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>/page/about/</guid>
       <description>I am a graduate student in epidemiology in the Harvard T.H. Chan School of Public Health. I’m interested in using epidemiologic methods to identify targeted interventions for high risk populations. Before starting my doctoral degree, I worked in the London School of Hygiene &amp;amp; Tropical Medicine studying cancer survival disparities in the UK, France and Japan. For my doctoral thesis, I am working on using both infectious disease modeling and machine learning techniques to inform tuberculosis control strategies.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>/page/research/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/research/</guid>
+      <guid>/page/research/</guid>
       <description>Active projects TB contact investigation in Peru As part of my doctoral thesis, I&amp;rsquo;m developing tools that could inform tuberculosis contact investigation and preventive therapy for pulmonary TB patients and their contacts in Lima, Peru with Prof. Megan Murray.
  Some preliminary results were presented on the 16th Annual Jonathan Freeman Symposium on Infectious Disease Epidemiology on Apr 27, 2018.  Nutrition intervention in China Developing a worksite-based intervention in Pudong, Shanghai, collaborating with the Pudong Institute for Health Development and Prof.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>/page/teaching/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>/page/teaching/</guid>
       <description>Harvard During my doctoral studies, my teaching activities include:
  EPI523: Investigating Outbreaks with Dr. Kayla Laserson. Fall 2015-18 EPI289: Causal Inference with Dr. Miguel Hernan. Spring 2017 EPI527: Design and Conduct of Clinical Trials in Preventive Medicine with Dr. Howard Sesso and Dr. I-Min Lee. Fall 2017-18 (online) ID201: Introduction to Epidemiology and Biostatistics with Dr. Kimberlee Gauvreau and Dr. Nina Paynter. Fall 2016 EPI236: Analytic Aspect of Clinical Epidemiolog with Dr.</description>
     </item>

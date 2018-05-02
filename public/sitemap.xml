@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2018/05/01/hello-world/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2018-05-01T12:21:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/hello-world/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,19 +33,7 @@
   </url>
   
   <url>
-    <loc>/categories/misc/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
+    <loc>/tags/misc/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
