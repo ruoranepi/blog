@@ -12,13 +12,22 @@
     
     
     <item>
+      <title>Second</title>
+      <link>/posts/second/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/second/</guid>
+      <description>Hello!!!</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>/posts/hello-world/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/posts/hello-world/</guid>
       <description>First post! I&amp;rsquo;ll use this space for sharing reading and research notes.
-This site was created following the Blogdown book, using Yihui&amp;rsquo;s adaptation of the Lithium Hugo theme, adding tags and categories based on the Natrium theme.</description>
+This site was created following the Blogdown book, using the hugo sam theme.</description>
     </item>
     
   </channel>
