@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Ruoran</title>
+    <title>R on Ruoran Li</title>
     <link>/tags/r/</link>
-    <description>Recent content in R on Ruoran</description>
+    <description>Recent content in R on Ruoran Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>/post/hello-world/</link>
+      <link>/2018/05/01/hello-world/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/hello-world/</guid>
+      <guid>/2018/05/01/hello-world/</guid>
       <description>First post! I&amp;rsquo;ll use this space for sharing reading and research notes.
 This site was created following the Blogdown book, using Yihui&amp;rsquo;s adaptation of the Lithium Hugo theme, adding tags and categories based on the Natrium theme.</description>
     </item>

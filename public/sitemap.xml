@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/second/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    <loc>/2018/05/03/the-zero-tb-initiative-talk-mercedes-becerra/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2018-05-01T12:21:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/hello-world/</loc>
+    <loc>/2018/05/01/hello-world/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,43 +28,79 @@
   </url>
   
   <url>
-    <loc>/tags/blogdown/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>/categories/misc/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pih/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/policy/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/research-gap/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/routine-data/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/seminar/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/social-epi/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/todo/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/why/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    <loc>/tags/tb/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruoran</title>
+    <title>Ruoran Li</title>
     <link>/</link>
-    <description>Recent content on Ruoran</description>
+    <description>Recent content on Ruoran Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>What is this site about?</title>
-      <link>/post/second/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <title>The Zero TB Initiative - talk by Mercedes Becerra</title>
+      <link>/2018/05/03/the-zero-tb-initiative-talk-mercedes-becerra/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/second/</guid>
-      <description>Goal of this site: to save and share resources in an easy-to-find format.
- To-do list for this site:
- Turn research/teaching in to a list of projects/courses. (Have one specific page for each project/course, with links to resources.) Add a gallary page to show pictures and drawings. Write often.   </description>
+      <guid>/2018/05/03/the-zero-tb-initiative-talk-mercedes-becerra/</guid>
+      <description>Notes from a talk from the Global Health Delivery Partnership Grand Rounds series.
+Title: Principles of Tuberculosis Elimination and the Zero TB Initiative
+Presenter: Mercedes Becerra, ScD. Professor, Department of Global Health and Social Medicine, Harvard Medical School Associate Epidemiologist, Division of Global Health Equity, Brigham and Women’s Hospital Senior TB Specialist, Partners In Health
+A substandard of TB control has been mainstream Based on current trend, it will take 200 years for the global incidence to be at the same level as TB incidence in the US.</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>/post/hello-world/</link>
+      <link>/2018/05/01/hello-world/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/hello-world/</guid>
+      <guid>/2018/05/01/hello-world/</guid>
       <description>First post! I&amp;rsquo;ll use this space for sharing reading and research notes.
-This site was created following the Blogdown book, using the hugo sam theme.</description>
+This site was created following the Blogdown book, using Yihui&amp;rsquo;s adaptation of the Lithium Hugo theme, adding tags and categories based on the Natrium theme.</description>
     </item>
     
     <item>

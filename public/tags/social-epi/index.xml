@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Epi on Ruoran Li</title>
+    <link>/tags/social-epi/</link>
+    <description>Recent content in Social Epi on Ruoran Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/social-epi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Zero TB Initiative - talk by Mercedes Becerra</title>
+      <link>/2018/05/03/the-zero-tb-initiative-talk-mercedes-becerra/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/03/the-zero-tb-initiative-talk-mercedes-becerra/</guid>
+      <description>Notes from a talk from the Global Health Delivery Partnership Grand Rounds series.
+Title: Principles of Tuberculosis Elimination and the Zero TB Initiative
+Presenter: Mercedes Becerra, ScD. Professor, Department of Global Health and Social Medicine, Harvard Medical School Associate Epidemiologist, Division of Global Health Equity, Brigham and Women’s Hospital Senior TB Specialist, Partners In Health
+A substandard of TB control has been mainstream Based on current trend, it will take 200 years for the global incidence to be at the same level as TB incidence in the US.</description>
+    </item>
+    
+  </channel>
+</rss>
