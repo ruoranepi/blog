@@ -1,5 +1,5 @@
 ---
-title: Timely vaccines
+title: Timely vaccines - talk by Kendall Hoyt
 author: 'Ruoran Li'
 date: '2018-05-03'
 slug: timely-vaccines
