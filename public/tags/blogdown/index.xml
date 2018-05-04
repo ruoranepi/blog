@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogdown on Ruoran Li</title>
+    <link>/tags/blogdown/</link>
+    <description>Recent content in Blogdown on Ruoran Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/blogdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Try R codes and plots using blogdown</title>
+      <link>/2018/05/04/try-r-codes-and-plots-using-blogdown/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/04/try-r-codes-and-plots-using-blogdown/</guid>
+      <description>Set up I’m following the R for data science book to learn some better practices for organizing my analyses. My motivation for this is that I’ve only just realized that I have been using base R for most of my previous data cleaning works – maybe I should start learning to use packages that can simplify this process.
+tidyverse may be the place to start (heard about it from Roger Peng and Hilary Parker’s podcast).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.40.2" />
+
+
+<title>Starting with R codes in tidyverse - Ruoran Li</title>
+<meta property="og:title" content="Starting with R codes in tidyverse - Ruoran Li">
+
+
+
+  
+
+
+
+
+
+
+
+
+<link href='//cdn.bootcss.com/highlight.js/9.11.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/categories/">categories</a></li>
+    
+    <li><a href="/tags/">tags</a></li>
+    
+    <li><a href="/research/">research</a></li>
+    
+    <li><a href="/teaching/">teaching</a></li>
+    
+    <li><a href="/about/">about</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+   
+    
+
+    <h1 class="article-title">Starting with R codes in tidyverse</h1>
+
+    
+    <span class="article-date">2018/05/04</span>
+    
+
+    <div class="article-content">
+      <div id="set-up" class="section level1">
+<h1>Set up</h1>
+<p>I’m following the <a href="http://r4ds.had.co.nz/">R for data science book</a> to learn some better practices for organizing my analyses. My motivation for this is that I’ve only just realized that I have been using base R for most of my previous data cleaning works – maybe I should start learning to use packages that can simplify this process.</p>
+<p><code>tidyverse</code> may be the place to start (heard about it from Roger Peng and Hilary Parker’s <a href="http://nssdeviations.com/">podcast</a>).</p>
+<pre class="r"><code>library(tidyverse)</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────────────────────────────── tidyverse 1.2.1 ──</code></pre>
+<pre><code>## ✔ ggplot2 2.2.1     ✔ purrr   0.2.4
+## ✔ tibble  1.4.2     ✔ dplyr   0.7.4
+## ✔ tidyr   0.8.0     ✔ stringr 1.3.0
+## ✔ readr   1.1.1     ✔ forcats 0.3.0</code></pre>
+<pre><code>## ── Conflicts ────────────────────────────────────────────────── tidyverse_conflicts() ──
+## ✖ dplyr::filter() masks stats::filter()
+## ✖ dplyr::lag()    masks stats::lag()</code></pre>
+<p>One important distinction is that each R project should be self-contained. Lessons learned form <a href="https://www.tidyverse.org/articles/2017/12/workflow-vs-script/">this post on project-oriented workflow</a>:</p>
+<ul>
+<li>Use relative paths, and do not <code>setwd()</code>.</li>
+<li>Open new sessions for each research question, and do not <code>rm(list=ls())</code>.</li>
+</ul>
+</div>
+<div id="chapter-3.-data-visualization" class="section level1">
+<h1>Chapter 3. Data visualization</h1>
+<p>Following the book’s progress, using the mpg data from ggplot2.</p>
+<pre class="r"><code>mpg</code></pre>
+<pre><code>## # A tibble: 234 x 11
+##    manufacturer model    displ  year   cyl trans   drv     cty   hwy fl   
+##    &lt;chr&gt;        &lt;chr&gt;    &lt;dbl&gt; &lt;int&gt; &lt;int&gt; &lt;chr&gt;   &lt;chr&gt; &lt;int&gt; &lt;int&gt; &lt;chr&gt;
+##  1 audi         a4         1.8  1999     4 auto(l… f        18    29 p    
+##  2 audi         a4         1.8  1999     4 manual… f        21    29 p    
+##  3 audi         a4         2    2008     4 manual… f        20    31 p    
+##  4 audi         a4         2    2008     4 auto(a… f        21    30 p    
+##  5 audi         a4         2.8  1999     6 auto(l… f        16    26 p    
+##  6 audi         a4         2.8  1999     6 manual… f        18    26 p    
+##  7 audi         a4         3.1  2008     6 auto(a… f        18    27 p    
+##  8 audi         a4 quat…   1.8  1999     4 manual… 4        18    26 p    
+##  9 audi         a4 quat…   1.8  1999     4 auto(l… 4        16    25 p    
+## 10 audi         a4 quat…   2    2008     4 manual… 4        20    28 p    
+## # ... with 224 more rows, and 1 more variable: class &lt;chr&gt;</code></pre>
+<p>Showing some simple visualization before I move on to tackle more complicated problems:</p>
+<pre class="r"><code>ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy))</code></pre>
+<p><img src="/post/2018-05-03-try-r-codes-and-plots-using-blogdown_files/figure-html/unnamed-chunk-3-1.png" width="672" />
+Until next time!</p>
+</div>
+
+    </div>
+
+    <ul class="article-taxonomy">
+                  
+      <hr>
+      <li>
+        <i class="fa fa-category"></i><a href="/categories/learn-r">Learn R</a>
+      </li>
+      
+    
+      
+      <li>
+        <i class="fa fa-tags"></i><a href="/tags/r">R</a><a href="/tags/tidyverse">tidyverse</a><a href="/tags/workflow">workflow</a>
+      </li>
+      
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+
+          <li>
+            <a>Updated on: 2018 May</a>
+          </li>
+          <li>
+            <a>Ruoran Li &copy; 2018</a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/highlight.min.js"></script>
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/r.min.js"></script>
+<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+
+    
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-114721555-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+
