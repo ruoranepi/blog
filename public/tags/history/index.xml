@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History on Ruoran Li</title>
+    <link>/tags/history/</link>
+    <description>Recent content in History on Ruoran Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Timely vaccines</title>
+      <link>/2018/05/03/timely-vaccines/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/03/timely-vaccines/</guid>
+      <description>Notes from a talk by Kendall Hoyt, ID epi seminar series.
+During WWII, the world is very productive in developing and improving many vaccines.
+Many barriers are organizational, not scientific.
+What are some of the good organizational characteristics that facilitate speedy development?
+ Top down governance Integrated across developmental phases and diciplines Situated in a community that facilitates information transfer  CEPI (Coalition for Epidemic Preparedness Innovations) - defines the problem as a speed problem.</description>
+    </item>
+    
+  </channel>
+</rss>
