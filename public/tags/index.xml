@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Ruoran Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation</title>
+      <link>/tags/evaluation/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/evaluation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>History</title>
@@ -17,6 +35,60 @@
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation</title>
+      <link>/tags/implementation/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intervention</title>
+      <link>/tags/intervention/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/intervention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kirkpatrick Model</title>
+      <link>/tags/kirkpatrick-model/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kirkpatrick-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koloktrones</title>
+      <link>/tags/koloktrones/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/koloktrones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lago</title>
+      <link>/tags/lago/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lago/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Health</title>
+      <link>/tags/mental-health/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mental-health/</guid>
       <description></description>
     </item>
     
@@ -66,11 +138,29 @@
     </item>
     
     <item>
+      <title>Scalability</title>
+      <link>/tags/scalability/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scalability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social Epi</title>
       <link>/tags/social-epi/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/social-epi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study Design</title>
+      <link>/tags/study-design/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/study-design/</guid>
       <description></description>
     </item>
     

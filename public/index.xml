@@ -6,10 +6,21 @@
     <description>Recent content on Ruoran Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Implementation &#43; data science: 4th Kolokotrones Symposium</title>
+      <link>/2018/05/05/implementation-data-science-4th-kolokotrones/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/05/implementation-data-science-4th-kolokotrones/</guid>
+      <description>Several key concepts and learnings:
+LAGO evaluation design Learn-as-you-go design presented by Daniel Nevo (paper not published yet): contrast with other types of trial designs.
+The Kirkpatrick Model of learning evaluation:  Reaction - what participants thought and felt about the training (satisfaction; &amp;ldquo;smile sheets&amp;rdquo;) Learning - the resulting increase in knowledge and/or skills, and change in attitudes. This evaluation occurs during the training in the form of either a knowledge demonstration or test.</description>
+    </item>
     
     <item>
       <title>Starting with R codes in tidyverse</title>

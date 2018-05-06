@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/05/05/implementation-data-science-4th-kolokotrones/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/05/04/try-r-codes-and-plots/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
   </url>
@@ -43,14 +48,62 @@
   </url>
   
   <url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/evaluation/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/history/</loc>
     <lastmod>2018-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/implementation/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/intervention/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kirkpatrick-model/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/koloktrones/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lago/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/learn-r/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mental-health/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,7 +127,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,13 +151,19 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/scalability/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/seminar/</loc>
-    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,8 +174,14 @@
   </url>
   
   <url>
+    <loc>/tags/study-design/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
