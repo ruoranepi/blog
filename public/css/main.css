@@ -469,6 +469,10 @@ code {
   padding: 0 10px 0px 0;
 }
 
+img {
+  max-width: 100%;
+}
+
 @media (min-width: 600px) {
   .header {
     padding: 25px 0;
