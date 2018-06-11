@@ -17,3 +17,5 @@ tags:
 We are presenting this work at [Nutrition 2018](https://meeting.nutrition.org/), in Boston, MA, on June 11. 
 
 ![Poster at Nutrition 2018](/post/2018-06-10-developing-a-nutrition-intervention-for-healthcare-workers-poster-for-nutrition-2018_files/Screen Shot 2018-06-10 at 23.55.53.png)
+
+Here's a [PDF version](/post/2018-06-10-developing-a-nutrition-intervention-for-healthcare-workers-poster-for-nutrition-2018_files/nutrition 2018 poster v5.pdf) of the poster. 

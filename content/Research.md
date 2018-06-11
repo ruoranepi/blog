@@ -25,6 +25,8 @@ Developing a worksite-based intervention in Pudong, Shanghai, collaborating with
 
 - Li R, Wu Y, Jing L, Jaacks LM. [Enablers and barriers to improving worksite canteen nutrition in Pudong, China: a mixed-methods formative research study](http://bmjopen.bmj.com/content/8/4/e020529). *BMJ Open* 2018;8:e020529.
 
+- [Poster](/post/2018-06-10-developing-a-nutrition-intervention-for-healthcare-workers-poster-for-nutrition-2018_files/nutrition 2018 poster v5.pdf) presented at [Nutrition 2018](https://meeting.nutrition.org/). 
+
 ## Previous projects
 
 ### Reducing cancer survival inequality in England
