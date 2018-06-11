@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Socialmedia on Ruoran Li</title>
+    <link>/tags/socialmedia/</link>
+    <description>Recent content in Socialmedia on Ruoran Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/socialmedia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nutrition 2018: conference notes</title>
+      <link>/2018/06/09/nutrition-2018/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/09/nutrition-2018/</guid>
+      <description>Lindsay Jaacks: US meat consumption is declining, but increasing globally. In China, meat production is increasing by 2 kg per person per year. (And diabetes is associated with small elevation by half serving of meat consumption in Nurses.) Global vegetable intake is low, and fruit intake is even lower.
+ Carol Boushey: Food co-ocurrence pattern over time from new technologies that capture food intake. Interesting way to visualize multiple exposures.</description>
+    </item>
+    
+  </channel>
+</rss>
