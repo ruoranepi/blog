@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Ruoran Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dplyr saves lives</title>
+      <link>/2018/07/19/dplyr-saves-lives/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/07/19/dplyr-saves-lives/</guid>
+      <description>Transitioning from Stata to R is painful. So for over half a year, I was using base R for data cleaning and manipulation (double PAINFUL!), before finally having time to learn the many uses of the dplyr package. Life is so much simpler. All thanks go to YouTube videos from Prof. Roger Peng: timesaver and lifesaver!</description>
+    </item>
     
     <item>
       <title>Developing a nutrition intervention for healthcare workers: poster for Nutrition 2018</title>
