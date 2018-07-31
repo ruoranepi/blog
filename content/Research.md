@@ -36,11 +36,15 @@ Developing a worksite-based intervention in Pudong, Shanghai, collaborating with
 - Li R, Abela L, Moore J, Woods LM, Nur U, Rachet B, Coleman MP. [Control of data quality for population-based cancer survival analysis](https://www.ncbi.nlm.nih.gov/pubmed/24685409). *Cancer Epidemiology* 2014; 38(3): 314-20.
 - Arya M, Li R, Pegler K, Sangar V, Kelly JD, Minhas S, Muneer A, Coleman MP. [Long-term trends in incidence, survival and mortality of primary penile cancer in England](https://www.ncbi.nlm.nih.gov/pubmed/24101363). *Cancer Causes & Control* 2013; 24(12): 2169–76.
 
+### Risky decision making
+- Clark L, Li R, Wright CM, Rome F, Fairchild G, Dunn BD, Aitken MRF. [Risk-avoidant decision making increased by threat of electric shock](https://www.ncbi.nlm.nih.gov/pubmed/22913418). *Psychophysiology* 2012; 49: 1436–43.
+- Li R. Effect of False Physiological Feedback on a Risk Sensitive Decision-making Task. 2010 *BA thesis available upon request.*
 
 ### Non-specific projects
 
-- Li R. FXB village program evaluation in Butuo, Liangshan, China. *Report available upon request.*
-- Clark L, Li R, Wright CM, Rome F, Fairchild G, Dunn BD, Aitken MRF. [Risk-avoidant decision making increased by threat of electric shock](https://www.ncbi.nlm.nih.gov/pubmed/22913418). *Psychophysiology* 2012; 49: 1436–43.
+- Li R. FXB village program evaluation in Butuo, Liangshan, China. 2016. *Report available upon request.*
+- Li R. What does fine spatial information add to the detection of infectious disease clusters in East of England? 2011 *MPhil thesis available upon request.*
+
 
 
 

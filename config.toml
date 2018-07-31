@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Ruoran Li"
 theme = "hugo-lithium-tag"
   # Update last chage date:
-      # /Users/RLi/Documents/GitHub/blog/themes/hugo-lithium-tag/layouts/partials/footnote.html 
+      # /Users/RLi/Documents/GitHub/blog/themes/hugo-lithium-tag/layouts/partials/footer.html 
 
 googleAnalytics = "UA-114721555-1"
 disqusShortname = "https-ruoranepi-netlify-com"
