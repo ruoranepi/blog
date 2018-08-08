@@ -22,8 +22,4 @@ For more information, please see:
 + [Teaching](/Teaching)
 + [Harvard profile](https://scholar.harvard.edu/rli/home)
 
-I'm starting to write a satirical fiction in Chinese on evenings:
-
-+ Fiction: [Mr. Bot](/categories/mr-bot/)
-
  
