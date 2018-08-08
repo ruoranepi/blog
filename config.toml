@@ -6,7 +6,7 @@ theme = "hugo-lithium-tag"
       # /Users/RLi/Documents/GitHub/blog/themes/hugo-lithium-tag/layouts/partials/footer.html 
 
 googleAnalytics = "UA-117912987-2"
-#disqusShortname = "https-ruoranepi-netlify-com"
+disqusShortname = "https-ruoranepi-netlify-com"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
