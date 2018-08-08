@@ -1,12 +1,12 @@
-baseurl = "https://ruoranepi.netlify.com/"
+baseurl = "https://www.ruoranepi.com/"
 languageCode = "en-us"
 title = "Ruoran Li"
 theme = "hugo-lithium-tag"
   # Update last chage date:
       # /Users/RLi/Documents/GitHub/blog/themes/hugo-lithium-tag/layouts/partials/footer.html 
 
-googleAnalytics = "UA-114721555-1"
-disqusShortname = "https-ruoranepi-netlify-com"
+googleAnalytics = "UA-117912987-2"
+#disqusShortname = "https-ruoranepi-netlify-com"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
