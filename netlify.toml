@@ -7,4 +7,3 @@
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   
-https://ruoranepi.netlify.com/* https://www.ruoranepi.com/:splat 301!
