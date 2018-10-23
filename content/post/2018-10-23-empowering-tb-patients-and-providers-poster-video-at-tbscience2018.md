@@ -27,7 +27,7 @@ I've recorded a [screencast](https://www.youtube.com/watch?v=Fcla8eXRgh0) explan
 
 Here's our poster, poster #3384: ![TBScience2018 poster](/post/2018-10-23-empowering-tb-patients-and-providers-poster-video-at-tbscience2018_files/Prediction Poster v7.jpg)
 
-![high resolution pdf version](/post/2018-10-23-empowering-tb-patients-and-providers-poster-video-at-tbscience2018_files/Prediction Poster v7.pdf)
+[High resolution pdf version](/post/2018-10-23-empowering-tb-patients-and-providers-poster-video-at-tbscience2018_files/Prediction Poster v7.pdf)
 
 ## Transcripts
 
