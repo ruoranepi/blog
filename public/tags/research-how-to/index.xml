@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workflow on Ruoran Li</title>
-    <link>/tags/workflow/</link>
-    <description>Recent content in Workflow on Ruoran Li</description>
+    <title>Research How To on Ruoran Li</title>
+    <link>/tags/research-how-to/</link>
+    <description>Recent content in Research How To on Ruoran Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/research-how-to/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>Nigel Cross: “Design Thinking.”
 Informative book that helps me to reflect the design (research) process as an independent researcher.
 Quotes “&amp;hellip; designing is not a search for the optimum solution to the given problem, but that it is an exploratory process. The creative designer interprets the design brief not as a specification for a solution, but as a starting point for a journey of exploration; the designer sets off to explore, to discover something new, rather than to reach somewhere already known, or to return with yet another example of the already familiar.</description>
-    </item>
-    
-    <item>
-      <title>Starting with R codes in tidyverse</title>
-      <link>/2018/05/04/try-r-codes-and-plots/</link>
-      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/05/04/try-r-codes-and-plots/</guid>
-      <description>Set up I’m following the R for data science book to learn some better practices for organizing my analyses. My motivation for this is that I’ve only just realized that I have been using base R for most of my previous data cleaning works – maybe I should start learning to use packages that can simplify this process.
-tidyverse may be the place to start (heard about it from Roger Peng and Hilary Parker’s podcast).</description>
     </item>
     
   </channel>
