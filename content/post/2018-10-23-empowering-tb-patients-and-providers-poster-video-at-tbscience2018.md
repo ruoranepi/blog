@@ -19,13 +19,14 @@ tags:
 
 We are presenting at [TBScience2018 conference](https://thehague.worldlunghealth.org/programme/preconference-side-events/tb-science-2018/), part of the [49th Union World Conference on Lung Health](https://thehague.worldlunghealth.org/).  
 
-Here's our poster, poster #3384: ![TBScience2018 poster](/post/2018-10-23-empowering-tb-patients-and-providers-poster-video-at-tbscience2018_files/Prediction Poster v7.jpg)
-
-I've recorded a [screencast](https://www.youtube.com/watch?v=Fcla8eXRgh0) explaning the poster (7 minutes). 
+I've recorded a [screencast](https://www.youtube.com/watch?v=Fcla8eXRgh0) explaning the poster (7 minutes). Please see below for the poster and for full transcripts. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fcla8eXRgh0" frameborder="0" allowfullscreen></iframe>
 
-## Transcripts:
+Here's our poster, poster #3384: ![TBScience2018 poster](/post/2018-10-23-empowering-tb-patients-and-providers-poster-video-at-tbscience2018_files/Prediction Poster v7.jpg)
+
+
+## Transcripts
 
 Hello everyone! This is Ruoran Li. Here’s a five minutes overview of the poster we’re presenting at the TBScience 2018 conference. 
 
