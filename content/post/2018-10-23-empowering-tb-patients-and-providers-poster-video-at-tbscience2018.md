@@ -21,7 +21,9 @@ We are presenting at [TBScience2018 conference](https://thehague.worldlunghealth
 
 Here's our poster, poster #3384: ![TBScience2018 poster](/post/2018-10-23-empowering-tb-patients-and-providers-poster-video-at-tbscience2018_files/Prediction Poster v7.jpg)
 
-**I've recorded a [screencast](https://www.youtube.com/watch?v=Fcla8eXRgh0) explaning the poster (7 minutes). **
+I've recorded a [screencast](https://www.youtube.com/watch?v=Fcla8eXRgh0) explaning the poster (7 minutes). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fcla8eXRgh0" frameborder="0" allowfullscreen></iframe>
 
 ## Transcripts:
 

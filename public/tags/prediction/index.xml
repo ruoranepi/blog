@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Implementation on Ruoran Li</title>
-    <link>/tags/implementation/</link>
-    <description>Recent content in Implementation on Ruoran Li</description>
+    <title>Prediction on Ruoran Li</title>
+    <link>/tags/prediction/</link>
+    <description>Recent content in Prediction on Ruoran Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/implementation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/prediction/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
 Here&amp;rsquo;s our poster, poster #3384: I&amp;rsquo;ve recorded a screencast explaning the poster (7 minutes).
  Transcripts: Hello everyone! This is Ruoran Li. Here’s a five minutes overview of the poster we’re presenting at the TBScience 2018 conference.
 This research is a collaboration between Harvard TH Chan school of Public Health, Harvard Medical School, and Socios En Salud in Peru.</description>
-    </item>
-    
-    <item>
-      <title>Implementation &#43; data science: 4th Kolokotrones Symposium</title>
-      <link>/2018/05/05/implementation-data-science-4th-kolokotrones/</link>
-      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/05/05/implementation-data-science-4th-kolokotrones/</guid>
-      <description>Several key concepts and learnings:
-LAGO evaluation design Learn-as-you-go design presented by Daniel Nevo (paper not published yet): contrast with other types of trial designs.
-The Kirkpatrick Model of learning evaluation:  Reaction - what participants thought and felt about the training (satisfaction; &amp;ldquo;smile sheets&amp;rdquo;) Learning - the resulting increase in knowledge and/or skills, and change in attitudes. This evaluation occurs during the training in the form of either a knowledge demonstration or test.</description>
     </item>
     
   </channel>

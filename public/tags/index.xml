@@ -30,9 +30,18 @@
     </item>
     
     <item>
+      <title>Contact Investigation</title>
+      <link>/tags/contact-investigation/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/contact-investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Science</title>
       <link>/tags/data-science/</link>
-      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/data-science/</guid>
       <description></description>
@@ -86,7 +95,7 @@
     <item>
       <title>Implementation</title>
       <link>/tags/implementation/</link>
-      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/implementation/</guid>
       <description></description>
@@ -167,9 +176,27 @@
     <item>
       <title>Policy</title>
       <link>/tags/policy/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction</title>
+      <link>/tags/prediction/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevention</title>
+      <link>/tags/prevention/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/prevention/</guid>
       <description></description>
     </item>
     
@@ -185,7 +212,7 @@
     <item>
       <title>Research Gap</title>
       <link>/tags/research-gap/</link>
-      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/research-gap/</guid>
       <description></description>
@@ -203,7 +230,7 @@
     <item>
       <title>Routine Data</title>
       <link>/tags/routine-data/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/routine-data/</guid>
       <description></description>
@@ -248,7 +275,7 @@
     <item>
       <title>Tb</title>
       <link>/tags/tb/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/tb/</guid>
       <description></description>
