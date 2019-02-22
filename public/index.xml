@@ -6,6 +6,7 @@
     <description>Recent content on Ruoran Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Ruoran Li 2019</copyright>
     <lastBuildDate>Sat, 08 Aug 2099 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +23,26 @@
 离周五更新只剩下十五分钟了，她还在写今天文章的引言：“人间不值得，那是别人在扯他的蛋。一行码一世界，可智能的火光慢慢消退的时候，哥问你，你捧在手心的最重要的东西是什么？”才发现自己根本写不下去了。读者留言看着也不好玩了，她不可能连续一年每天对着同样的笑话笑几十遍。后台每周都会收到三百条或长或短的读者问题，她在年前编的机器学习小程序能够把所有的这些问题自动分类解答，然而波屯智能哥还是得赶在周五人工码字，把机器答案盖上人心型的困苦邮戳。
 她电脑桌面上的Word文档开着，里面存了这周的所有留言。她从头开始读，试图能够找到一些灵感。
 Acknowledgement: Miss Lonelyhearts by Nathanael West, 1933.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Active projects TB contact investigation in Peru As part of my doctoral thesis, I&amp;rsquo;m developing tools that could inform tuberculosis contact investigation and preventive therapy for pulmonary TB patients and their contacts in Lima, Peru with Prof. Megan Murray.
+ Some preliminary results were presented on the 16th Annual Jonathan Freeman Symposium on Infectious Disease Epidemiology on Apr 27, 2018, and the 49th Union World Conference on Lung Health.  Nutrition intervention in China Developing a worksite-based intervention in Pudong, Shanghai, collaborating with the Pudong Institute for Health Development and Prof.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>Harvard During my doctoral studies, my teaching activities include:
+ EPI523: Investigating Outbreaks with Dr. Kayla Laserson. Fall 2015-18 EPI289: Causal Inference with Dr. Miguel Hernan. Spring 2017 EPI527: Design and Conduct of Clinical Trials in Preventive Medicine with Dr. Howard Sesso and Dr. I-Min Lee. Fall 2017-18 (online) ID201: Introduction to Epidemiology and Biostatistics with Dr. Kimberlee Gauvreau and Dr. Nina Paynter. Fall 2016 EPI236: Analytic Aspect of Clinical Epidemiolog with Dr.</description>
     </item>
     
     <item>
@@ -151,26 +172,6 @@ This site was created following the Blogdown book, using Yihui&amp;rsquo;s adapt
       <guid>/about/</guid>
       <description>I am a graduate student in epidemiology at the Harvard T.H. Chan School of Public Health. For my doctoral dissertation, I am developing evidence-based prediction tools that would help healthcare providers in lower- and middle-income countries to better target tuberculosis control strategies.
 Prior to my graduate work, I studied in the University of Cambridge and conducted research on the risky decision-making process using experimental psychology techniques as my undergraduate thesis. I then worked in the London School of Hygiene &amp;amp; Tropical Medicine studying cancer survival disparities in the UK, France and Japan.</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/research/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/research/</guid>
-      <description>Active projects TB contact investigation in Peru As part of my doctoral thesis, I&amp;rsquo;m developing tools that could inform tuberculosis contact investigation and preventive therapy for pulmonary TB patients and their contacts in Lima, Peru with Prof. Megan Murray.
- Some preliminary results were presented on the 16th Annual Jonathan Freeman Symposium on Infectious Disease Epidemiology on Apr 27, 2018.  Nutrition intervention in China Developing a worksite-based intervention in Pudong, Shanghai, collaborating with the Pudong Institute for Health Development and Prof.</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/teaching/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/</guid>
-      <description>Harvard During my doctoral studies, my teaching activities include:
- EPI523: Investigating Outbreaks with Dr. Kayla Laserson. Fall 2015-18 EPI289: Causal Inference with Dr. Miguel Hernan. Spring 2017 EPI527: Design and Conduct of Clinical Trials in Preventive Medicine with Dr. Howard Sesso and Dr. I-Min Lee. Fall 2017-18 (online) ID201: Introduction to Epidemiology and Biostatistics with Dr. Kimberlee Gauvreau and Dr. Nina Paynter. Fall 2016 EPI236: Analytic Aspect of Clinical Epidemiolog with Dr.</description>
     </item>
     
   </channel>

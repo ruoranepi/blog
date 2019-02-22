@@ -1,7 +1,11 @@
 ---
 title: "Teaching"
-date: 2018-04-30
-lastmod: 2018-04-30
+date: 2019-02-22
+lastmod: 2019-02-22
+
+categories:
+  - My Teaching
+
 #menu: "main"
 #weight: 50
 
@@ -33,6 +37,10 @@ Before coming to Harvard, I have taught extensively while working in the [London
 ### Elsewhere
 
 - Faculty and lecturer on population-based cancer registration and survival analysis in the WHO International Agency for Research on Cancer (IARC) Summer Course on Cancer Registration, Lyon, 2014
+
+### Outreach
+
+- Lecturer for high school students at the [Public Health Symposium for Young Leaders in China](https://www.hsph.harvard.edu/public-health-symposium-for-young-leaders-in-china/), 2019. [More information here.](/2019/02/17/doomsday-survival-code/)
 
 
 

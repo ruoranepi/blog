@@ -1,7 +1,11 @@
 ---
 title: "Research"
-date: 2018-04-30
-lastmod: 2018-04-30
+date: 2019-02-22
+lastmod: 2019-02-22
+
+categories:
+  - My Research
+
 #menu: "main"
 #weight: 40
 
@@ -16,7 +20,7 @@ mathjax: false
 
 As part of my doctoral thesis, I'm developing tools that could inform tuberculosis contact investigation and preventive therapy for pulmonary TB patients and their contacts in Lima, Peru with [Prof. Megan Murray](http://ghsm.hms.harvard.edu/person/faculty/megan-murray).
 
-- Some preliminary results were presented on the [16th Annual Jonathan Freeman Symposium on Infectious Disease Epidemiology](https://www.hsph.harvard.edu/idepi/httpccdd-hsph-harvard-edueventsid-epi-spring-seminar-series-starts-in-feb/) on Apr 27, 2018. 
+- Some preliminary results were presented on the [16th Annual Jonathan Freeman Symposium on Infectious Disease Epidemiology](https://www.hsph.harvard.edu/idepi/httpccdd-hsph-harvard-edueventsid-epi-spring-seminar-series-starts-in-feb/) on Apr 27, 2018, and the [49th Union World Conference on Lung Health](2018/10/23/poster-video-at-tbscience2018/). 
 
 
 ### Nutrition intervention in China

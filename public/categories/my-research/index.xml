@@ -6,10 +6,21 @@
     <description>Recent content in My Research on Ruoran Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; Ruoran Li 2019</copyright>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/my-research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Active projects TB contact investigation in Peru As part of my doctoral thesis, I&amp;rsquo;m developing tools that could inform tuberculosis contact investigation and preventive therapy for pulmonary TB patients and their contacts in Lima, Peru with Prof. Megan Murray.
+ Some preliminary results were presented on the 16th Annual Jonathan Freeman Symposium on Infectious Disease Epidemiology on Apr 27, 2018, and the 49th Union World Conference on Lung Health.  Nutrition intervention in China Developing a worksite-based intervention in Pudong, Shanghai, collaborating with the Pudong Institute for Health Development and Prof.</description>
+    </item>
     
     <item>
       <title>Empowering TB patients and providers: poster video at TBScience2018</title>

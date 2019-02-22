@@ -1,9 +1,12 @@
 baseurl = "https://www.ruoranepi.com/"
 languageCode = "en-us"
 title = "Ruoran Li"
-theme = "hugo-lithium-tag"
+#theme = "hugo-lithium-tag"
   # Update last chage date:
       # /Users/RLi/Documents/GitHub/blog/themes/hugo-lithium-tag/layouts/partials/footer.html 
+      
+theme = "whiteplain-master"
+copyright = "&copy; Ruoran Li 2019"
 
 googleAnalytics = "UA-117912987-2"
 disqusShortname = "https-ruoranepi-netlify-com"
