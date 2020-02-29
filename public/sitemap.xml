@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2099/08/08/mr-bot-help-me-help-me-01/</loc>
-    <lastmod>2099-08-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/research/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
   </url>
@@ -191,12 +186,6 @@
   </url>
   
   <url>
-    <loc>/categories/mr-bot/</loc>
-    <lastmod>2099-08-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/my-research/</loc>
     <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -240,7 +229,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2099-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -283,12 +272,6 @@
   <url>
     <loc>/tags/routine-data/</loc>
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2099-08-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -349,6 +332,12 @@
   <url>
     <loc>/tags/workflow/</loc>
     <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

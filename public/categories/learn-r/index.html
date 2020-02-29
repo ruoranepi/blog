@@ -1,158 +1,73 @@
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <title>Learn R - Ruoran Li</title>
-  <meta property="og:title" content="Learn R - Ruoran Li" />
-  <meta name="twitter:title" content="Learn R - Ruoran Li" />
-  <meta name="author" content=""/>
-  <meta property="og:site_name" content="Ruoran Li" />
-  <meta property="og:url" content="/categories/learn-r/" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="" />
-  <meta name="twitter:image" content="" />
-  <meta name="twitter:card" content="summary" />
-  <meta name="generator" content="Hugo 0.54.0" />
-  <link href="/categories/learn-r/index.xml" rel="alternate" type="application/rss+xml" title="Ruoran Li" />
-  <link href="/categories/learn-r/index.xml" rel="feed" type="application/rss+xml" title="Ruoran Li" />
-
-  <link rel="stylesheet" href="/css/style.css" media="all" />
-  <link rel="stylesheet" href="/css/syntax.css" media="all" />
-  <link rel="stylesheet" href="/css/custom.css" media="all" />
-
-  <script src="/js/script.js"></script>
-  <script src="/js/custom.js"></script>
-  <script defer src="/js/fontawesome.js"></script>
+<meta charset="utf-8">
+<meta name="description" content="Grad student in epi.">
+<meta name="generator" content="Hugo 0.54.0" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/style.css" type="text/css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" type="text/css">
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="ruoran&#39;s notes">
+<title>Learn R - ruoran&#39;s notes</title>
 </head>
-
 <body>
 
-<header class="site-header">
-  <nav class="site-navi">
-    <h1 class="site-title"><a href="/">Ruoran Li</a></h1>
-    <ul class="site-navi-items">
-      <li class="site-navi-item-"><a href="/categories/" title="categories">categories</a></li>
-      <li class="site-navi-item-"><a href="/tags/" title="tags">tags</a></li>
-      <li class="site-navi-item-"><a href="/research/" title="research">research</a></li>
-      <li class="site-navi-item-"><a href="/teaching/" title="teaching">teaching</a></li>
-      <li class="site-navi-item-"><a href="/about/" title="about">about</a></li>
-    </ul>
-  </nav>
+<header>
+  <div class="container clearfix">
+    <a class="path" href="/">[ruoran&#39;s notes]</a>
+    <span class="caret"># _</span>
+    <div class="right">
+      
+    </div>
+  </div>
 </header>
-<hr class="site-header-bottom">
 
-  <div class="breadcrumb">
-    <a href="/categories/">Categories</a> / Learn r
-  </div>
-  <div class="main" role="main">
-    <section class="list taxonomy-list">
-      <article class="article">
-        <a href="/2018/07/19/dplyr-saves-lives/" class="article-titles">
-          <h2 class="article-title">dplyr saves lives</h2>
-          
-        </a>
-        <ul class="article-meta">
-          <li class="article-meta-date"><time>July 19, 2018</time></li>
-          <li class="article-meta-categories">
-            <a href="/categories/learn-r/">
-              <i class="fas fa-folder"></i>
-              Learn R
-            </a>&nbsp;
-          </li>
-          <li class="article-meta-tags">
-            <a href="/tags/r/">
-              <i class="fas fa-tag"></i>
-              R
-            </a>&nbsp;
-          </li>
-          <li class="article-meta-tags">
-            <a href="/tags/data-science/">
-              <i class="fas fa-tag"></i>
-              data science
-            </a>&nbsp;
-          </li>
-        </ul>
-        <div class="article-content">
-          <p>Transitioning from Stata to R is painful. So for over half a year, I was using base R for data cleaning and manipulation (double PAINFUL!), before finally having time to learn the many uses of the <a href="https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html">dplyr package</a>. Life is so much simpler. All thanks go to <a href="https://www.youtube.com/watch?v=aywFompr1F4">YouTube videos from Prof. Roger Peng</a>: timesaver and lifesaver!</p>
+<div class="container">
 
-        </div>
-        <div class="article-readmore"><a href="/2018/07/19/dplyr-saves-lives/">Read more...</a></div>
-        <div class="article-floatclear"></div>
-      </article>
-      <article class="article">
-        <a href="/2018/05/04/try-r-codes-and-plots/" class="article-titles">
-          <h2 class="article-title">Starting with R codes in tidyverse</h2>
-          
-        </a>
-        <ul class="article-meta">
-          <li class="article-meta-date"><time>May 4, 2018</time></li>
-          <li class="article-meta-categories">
-            <a href="/categories/learn-r/">
-              <i class="fas fa-folder"></i>
-              Learn R
-            </a>&nbsp;
-          </li>
-          <li class="article-meta-tags">
-            <a href="/tags/r/">
-              <i class="fas fa-tag"></i>
-              R
-            </a>&nbsp;
-          </li>
-          <li class="article-meta-tags">
-            <a href="/tags/tidyverse/">
-              <i class="fas fa-tag"></i>
-              tidyverse
-            </a>&nbsp;
-          </li>
-          <li class="article-meta-tags">
-            <a href="/tags/workflow/">
-              <i class="fas fa-tag"></i>
-              workflow
-            </a>&nbsp;
-          </li>
-        </ul>
-        <div class="article-content">
-          Set up I’m following the R for data science book to learn some better practices for organizing my analyses. My motivation for this is that I’ve only just realized that I have been using base R for most of my previous data cleaning works – maybe I should start learning to use packages that can simplify this process.
-tidyverse may be the place to start (heard about it from Roger Peng and Hilary Parker’s podcast).
-        </div>
-        <div class="article-readmore"><a href="/2018/05/04/try-r-codes-and-plots/">Read more...</a></div>
-        <div class="article-floatclear"></div>
-      </article>
-    </section>
-    
+
+<main role="main" class="article-list">
+  <h1 class="list-title">Learn R</h1>
+  
+    <article class="list-item" itemscope itemtype="http://schema.org/Blog">
+  <h2 class="headline" itemprop="headline"><a href="/2018/07/19/dplyr-saves-lives/">dplyr saves lives</a></h2>
+  <div class="meta">
+
+    <span class="key">published on</span>
+    <span class="val"><time itemprop="datePublished" datetime="2018-07-19">July 19, 2018</time></span>
 
   </div>
+  <section class="summary">
+    Transitioning from Stata to R is painful. So for over half a year, I was using base R for data cleaning and manipulation (double PAINFUL!), before finally having time to learn the many uses of the dplyr package. Life is so much simpler. All thanks go to YouTube videos from Prof. Roger Peng: timesaver and lifesaver! 
+  </section>
+</article>
 
+  
+    <article class="list-item" itemscope itemtype="http://schema.org/Blog">
+  <h2 class="headline" itemprop="headline"><a href="/2018/05/04/try-r-codes-and-plots/">Starting with R codes in tidyverse</a></h2>
+  <div class="meta">
 
+    <span class="key">published on</span>
+    <span class="val"><time itemprop="datePublished" datetime="2018-05-04">May 04, 2018</time></span>
 
-<div class="site-footer">
-  <div class="copyright">&copy; Ruoran Li 2019</div>
-  <ul class="site-footer-items">
-    <li class="site-footer-item-rsslink">
-      <a href="/categories/learn-r/index.xml" type="application/rss+xml" target="_blank" title="RSS">
-        <i class="fas fa-rss"></i>
-      </a>
-    </li>
-  </ul>
-  <div class="powerdby">
-    Powered by <a href="https://gohugo.io/">Hugo</a> and <a href="https://github.com/taikii/whiteplain">Whiteplain</a>
   </div>
+  <section class="summary">
+    Set up I’m following the R for data science book to learn some better practices for organizing my analyses. My motivation for this is that I’ve only just realized that I have been using base R for most of my previous data cleaning works – maybe I should start learning to use packages that can simplify this process.
+tidyverse may be the place to start (heard about it from Roger Peng and Hilary Parker’s podcast).  <a href="/2018/05/04/try-r-codes-and-plots/">Read More...</a>
+  </section>
+</article>
+
+  
+</main>
+
+
 </div>
 
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-117912987-2', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-
+<footer>
+  <div class="container">
+    <span class="copyright">&copy; 2019 ruoran&#39;s notes - <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></span>
+  </div>
+</footer>
 
 </body>
 </html>
+

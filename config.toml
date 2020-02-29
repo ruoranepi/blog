@@ -1,17 +1,18 @@
 baseurl = "https://www.ruoranepi.com/"
 languageCode = "en-us"
-title = "Ruoran Li"
+title = "ruoran's notes"
 #theme = "hugo-lithium-tag"
   # Update last chage date:
       # /Users/RLi/Documents/GitHub/blog/themes/hugo-lithium-tag/layouts/partials/footer.html 
       
-theme = "whiteplain-master"
-copyright = "&copy; Ruoran Li 2019"
+theme = "hugo-base16-theme-master"
+#copyright = "&copy; Ruoran Li 2019"
 
 googleAnalytics = "UA-117912987-2"
 disqusShortname = "https-ruoranepi-netlify-com"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+pygmentsuseclasses = true
 
 [taxonomies]
     category = "categories"
@@ -20,11 +21,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
- [[menu.main]]
+[[menu.main]]
      name = "tags"
      url = "/tags/"
      weight = 2
- [[menu.main]]
+[[menu.main]]
      name = "categories"
      url = "/categories/"
      weight = 1
