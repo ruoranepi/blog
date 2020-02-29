@@ -21,33 +21,8 @@ pygmentsuseclasses = true
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
-[[menu.main]]
-     name = "tags"
-     url = "/tags/"
-     weight = 2
-[[menu.main]]
-     name = "categories"
-     url = "/categories/"
-     weight = 1
-[[menu.main]]
-#    identifier = "research"
-    name = "research"
-    url = "/research/"
-    weight = 3
-[[menu.main]]
-#    identifier = "teaching"
-    name = "teaching"
-    url = "/teaching/"
-    weight = 4
-[[menu.main]]
-#    identifier = "about"
-    name = "about"
-    url = "/about/"
-    weight = 5
 
 [params]
-    description = "Grad student in epi."
-
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
     highlightjsCDN = "//cdn.bootcss.com"

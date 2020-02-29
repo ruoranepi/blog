@@ -6,9 +6,19 @@
     <description>Recent content in Categories on ruoran&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/categories/about/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learn R</title>
@@ -20,18 +30,9 @@
     </item>
     
     <item>
-      <title>Misc</title>
-      <link>/categories/misc/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/misc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>My Research</title>
       <link>/categories/my-research/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/my-research/</guid>
       <description></description>
@@ -40,7 +41,7 @@
     <item>
       <title>My Teaching</title>
       <link>/categories/my-teaching/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/my-teaching/</guid>
       <description></description>

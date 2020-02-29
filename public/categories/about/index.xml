@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on ruoran&#39;s notes</title>
+    <link>/categories/about/</link>
+    <description>Recent content in About on ruoran&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/2018/05/02/about/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/02/about/</guid>
+      <description>I am a graduate student in epidemiology at the Harvard T.H. Chan School of Public Health. For my doctoral dissertation, I am developing evidence-based prediction tools that would help healthcare providers in lower- and middle-income countries to better target tuberculosis control strategies.
+Prior to my graduate work, I studied in the University of Cambridge and conducted research on the risky decision-making process using experimental psychology techniques as my undergraduate thesis. I then worked in the London School of Hygiene &amp;amp; Tropical Medicine studying cancer survival disparities in the UK, France and Japan.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/2018/05/01/hello-world/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/01/hello-world/</guid>
+      <description>First post! I&amp;rsquo;ll use this space for sharing reading and research notes.
+This site was created following the Blogdown book with the base16 theme.</description>
+    </item>
+    
+  </channel>
+</rss>

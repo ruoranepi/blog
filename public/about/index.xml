@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on ruoran&#39;s notes</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on ruoran&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>I am a graduate student in epidemiology at the Harvard T.H. Chan School of Public Health. For my doctoral dissertation, I am developing evidence-based prediction tools that would help healthcare providers in lower- and middle-income countries to better target tuberculosis control strategies.
+Prior to my graduate work, I studied in the University of Cambridge and conducted research on the risky decision-making process using experimental psychology techniques as my undergraduate thesis. I then worked in the London School of Hygiene &amp;amp; Tropical Medicine studying cancer survival disparities in the UK, France and Japan.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,31 @@
     <description>Recent content in Posts on ruoran&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research update</title>
+      <link>/2020/02/29/research-update/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/29/research-update/</guid>
+      <description>Active projects Developing a tuberculosis risk score I&amp;rsquo;m developing a tool to describe the distribution of TB risks in a population. Preliminary results were presented at the 50th Union World Conference on Lung Health in Hyderabad, India, on October 31, 2019.
+COVID-19 inpatient resource needs As part of my doctoral thesis, I&amp;rsquo;m estimating the inpatient hospitalization needs for COVID-19.
+Previous projects TB contact investigation in Peru I have developed tools that could inform tuberculosis contact investigation and preventive therapy for pulmonary TB patients and their contacts in Lima, Peru with Prof.</description>
+    </item>
+    
+    <item>
+      <title>Teaching update</title>
+      <link>/2020/02/29/teaching-update/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/29/teaching-update/</guid>
+      <description>Harvard During my doctoral studies, my teaching activities include:
+ EPI523: Investigating Outbreaks with Dr. Kayla Laserson. Fall 2015-18 EPI289: Causal Inference with Dr. Miguel Hernan. Spring 2017 EPI527: Design and Conduct of Clinical Trials in Preventive Medicine with Dr. Howard Sesso and Dr. I-Min Lee. Fall 2017-19 (online) ID201: Introduction to Epidemiology and Biostatistics with Dr. Kimberlee Gauvreau and Dr. Nina Paynter. Fall 2016 EPI236: Analytic Aspect of Clinical Epidemiolog with Dr.</description>
+    </item>
     
     <item>
       <title>Doomsday Survival Code</title>
@@ -121,13 +142,23 @@ What are some of the good organizational characteristics that facilitate speedy 
     </item>
     
     <item>
+      <title>About</title>
+      <link>/2018/05/02/about/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/02/about/</guid>
+      <description>I am a graduate student in epidemiology at the Harvard T.H. Chan School of Public Health. For my doctoral dissertation, I am developing evidence-based prediction tools that would help healthcare providers in lower- and middle-income countries to better target tuberculosis control strategies.
+Prior to my graduate work, I studied in the University of Cambridge and conducted research on the risky decision-making process using experimental psychology techniques as my undergraduate thesis. I then worked in the London School of Hygiene &amp;amp; Tropical Medicine studying cancer survival disparities in the UK, France and Japan.</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>/2018/05/01/hello-world/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/05/01/hello-world/</guid>
       <description>First post! I&amp;rsquo;ll use this space for sharing reading and research notes.
-This site was created following the Blogdown book, using Yihui&amp;rsquo;s adaptation of the Lithium Hugo theme, adding tags and categories based on the Natrium theme.</description>
+This site was created following the Blogdown book with the base16 theme.</description>
     </item>
     
   </channel>
