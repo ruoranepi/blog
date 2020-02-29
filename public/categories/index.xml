@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Covid 19</title>
+      <link>/categories/covid-19/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learn R</title>
       <link>/categories/learn-r/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
@@ -32,7 +41,7 @@
     <item>
       <title>My Research</title>
       <link>/categories/my-research/</link>
-      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/my-research/</guid>
       <description></description>
@@ -41,7 +50,7 @@
     <item>
       <title>My Teaching</title>
       <link>/categories/my-teaching/</link>
-      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/my-teaching/</guid>
       <description></description>

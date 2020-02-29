@@ -14,6 +14,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 pygmentsuseclasses = true
 
+hasCJKLanguage=true
+
 [taxonomies]
     category = "categories"
     tag = "tags"

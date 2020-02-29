@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Research update</title>
-      <link>/2020/02/29/research-update/</link>
+      <title>在疫情爆发的初期应该发生什么?</title>
+      <link>/2020/02/29/what-should-happen-at-the-beginning-of-an-outbreak/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/02/29/research-update/</guid>
+      <guid>/2020/02/29/what-should-happen-at-the-beginning-of-an-outbreak/</guid>
+      <description>I gave a talk in a COVID-19 seminar series organized by Harvard students（哈佛新冠讲座系列分享）on what should happen at the beginning of an outbreak, and field epidemiology training programs in the US and in China. You can find my slides here.</description>
+    </item>
+    
+    <item>
+      <title>Research update</title>
+      <link>/2020/02/28/research-update/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/28/research-update/</guid>
       <description>Active projects Developing a tuberculosis risk score I&amp;rsquo;m developing a tool to describe the distribution of TB risks in a population. Preliminary results were presented at the 50th Union World Conference on Lung Health in Hyderabad, India, on October 31, 2019.
 COVID-19 inpatient resource needs As part of my doctoral thesis, I&amp;rsquo;m estimating the inpatient hospitalization needs for COVID-19.
 Previous projects TB contact investigation in Peru I have developed tools that could inform tuberculosis contact investigation and preventive therapy for pulmonary TB patients and their contacts in Lima, Peru with Prof.</description>
@@ -24,10 +33,10 @@ Previous projects TB contact investigation in Peru I have developed tools that c
     
     <item>
       <title>Teaching update</title>
-      <link>/2020/02/29/teaching-update/</link>
-      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <link>/2020/02/28/teaching-update/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/02/29/teaching-update/</guid>
+      <guid>/2020/02/28/teaching-update/</guid>
       <description>Harvard During my doctoral studies, my teaching activities include:
  EPI523: Investigating Outbreaks with Dr. Kayla Laserson. Fall 2015-18 EPI289: Causal Inference with Dr. Miguel Hernan. Spring 2017 EPI527: Design and Conduct of Clinical Trials in Preventive Medicine with Dr. Howard Sesso and Dr. I-Min Lee. Fall 2017-19 (online) ID201: Introduction to Epidemiology and Biostatistics with Dr. Kimberlee Gauvreau and Dr. Nina Paynter. Fall 2016 EPI236: Analytic Aspect of Clinical Epidemiolog with Dr.</description>
     </item>

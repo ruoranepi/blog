@@ -1,7 +1,7 @@
 ---
 title: "Research update"
-date: 2020-02-29
-lastmod: 2020-02-29
+date: 2020-02-28
+lastmod: 2020-02-28
 
 categories:
   - My Research
