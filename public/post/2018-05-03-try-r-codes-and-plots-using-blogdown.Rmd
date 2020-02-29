@@ -1,0 +1,41 @@
+---
+title: Starting with R codes in tidyverse
+author: Ruoran Li
+date: '2018-05-04'
+slug: try-r-codes-and-plots
+categories:
+  - Learn R
+tags:
+  - R
+  - tidyverse
+  - workflow
+---
+
+# Set up
+
+I'm following the [R for data science book](http://r4ds.had.co.nz/) to learn some better practices for organizing my analyses. My motivation for this is that I've only just realized that I have been using base R for most of my previous data cleaning works -- maybe I should start learning to use packages that can simplify this process. 
+
+`tidyverse` may be the place to start (heard about it from Roger Peng and Hilary Parker's [podcast](http://nssdeviations.com/)). 
+
+```{r}
+library(tidyverse)
+```
+
+One important distinction is that each R project should be self-contained. Lessons learned form [this post on project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/):
+
++ Use relative paths, and do not `setwd()`. 
++ Open new sessions for each research question, and do not `rm(list=ls())`. 
+
+# Chapter 3. Data visualization
+
+Following the book's progress, using the mpg data from ggplot2.
+```{r}
+mpg
+```
+
+Showing some simple visualization before I move on to tackle more complicated problems: 
+```{r}
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy))
+```
+Until next time!
