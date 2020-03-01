@@ -9,6 +9,7 @@ tags:
   - china
   - outbreak
   - cdc
+thumbnailImage: /post/2019-02-22-doomsday-survival-code_files/title.png
 ---
 
 I gave two lectures at the [Public Health Symposium for Young Leaders in China](https://www.hsph.harvard.edu/public-health-symposium-for-young-leaders-in-china/), Feb 17, 2019, for 50+ high school students from several different regions in China.

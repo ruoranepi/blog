@@ -10,6 +10,8 @@ tags:
   - cdc
   - outbreak
   - covid19
+thumbnailImage: /post/2020-02-29covidoutbreak/toc.png
 ---
 
-I gave a talk in a COVID-19 seminar series organized by Harvard students（哈佛新冠讲座系列分享）on what should happen at the beginning of an outbreak, and field epidemiology training programs in the US and in China. [You can find my slides here](/post/2020-02-29covidoutbreak/COVIDbeginning.pdf). 
+I gave a talk in a COVID-19 seminar series organized by Harvard students（哈佛新冠讲座系列分享）on what should happen at the beginning of an outbreak and introduced field epidemiology training programs in the US and in China. [You can find my slides here](/post/2020-02-29covidoutbreak/COVIDbeginning.pdf). 
+
