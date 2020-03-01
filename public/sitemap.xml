@@ -3,18 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2020/02/29/early-epidemic-curve-for-covid-19/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2020/02/29/what-should-happen-at-the-beginning-of-an-outbreak/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/02/28/research-update/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <loc>/2020/01/05/research-update/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/02/28/teaching-update/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <loc>/2020/01/01/teaching-update/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -210,13 +215,13 @@
   
   <url>
     <loc>/categories/my-research/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/my-teaching/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -294,7 +299,7 @@
   
   <url>
     <loc>/tags/routine-data/</loc>
-    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

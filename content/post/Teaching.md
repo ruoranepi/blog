@@ -1,7 +1,7 @@
 ---
 title: "Teaching update"
-date: 2020-02-28
-lastmod: 2020-02-28
+date: 2020-01-01
+lastmod: 2020-01-01
 
 categories:
   - My Teaching

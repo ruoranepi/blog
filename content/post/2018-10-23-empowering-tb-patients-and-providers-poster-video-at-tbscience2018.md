@@ -15,6 +15,7 @@ tags:
   - research gap
   - contact investigation
   - prevention
+thumbnailImage: /post/2018-10-23-empowering-tb-patients-and-providers-poster-video-at-tbscience2018_files/Prediction Poster v7.jpg
 ---
 
 We are presenting at [TBScience2018 conference](https://thehague.worldlunghealth.org/programme/preconference-side-events/tb-science-2018/), part of the [49th Union World Conference on Lung Health](https://thehague.worldlunghealth.org/).  
