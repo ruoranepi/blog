@@ -11,4 +11,4 @@ tags:
 
 First post! I'll use this space for sharing reading and research notes. 
 
-This site was created following the [Blogdown book](https://bookdown.org/yihui/blogdown/) with the [base16 theme](https://themes.gohugo.io/base16/). 
+This site was created following the [Blogdown book](https://bookdown.org/yihui/blogdown/). 
