@@ -12,7 +12,7 @@ tags:
 thumbnailImage: /post/2020-02-29-early-epidemic-curve-for-covid-19_earlycurve.png
 ---
 
-As you can see, I'm in the process of uploading all my notes and documetns accumulated in this current COVID-19 epidemic. I learned about the potential severity of the outbreak in Wuhan on Jan 22, 2020 (a Wednesday), and made this epidemic curve from official data sources:
+As you can see, I'm in the process of uploading all my notes and documents accumulated in this current COVID-19 epidemic. I learned about the potential severity of the outbreak in Wuhan on Jan 22, 2020 (a Wednesday), and made this epidemic curve from official data sources:
 
 ![Early epidemic curve](/post/2020-02-29-early-epidemic-curve-for-covid-19_earlycurve.png)
 
